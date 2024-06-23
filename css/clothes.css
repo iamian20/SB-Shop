@@ -45,7 +45,7 @@ body::before {
 
 .container .products-container .product {
   text-align: center;
-  padding: 3rem 2rem;
+  padding: 2rem 2rem;
   background: #fff;
   box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.1);
   outline: 0.1rem solid #ccc;
