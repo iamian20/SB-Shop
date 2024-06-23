@@ -32,12 +32,6 @@ body::before {
   height: 60px;
 }
 
-body::after {
-  display: block;
-  content: "";
-  height: 60px;
-}
-
 body.dark {
   --body-color: #18191a;
   --nav-color: #242526;
